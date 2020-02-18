@@ -3,8 +3,10 @@
 
 ![Image](aireanimacion.gif)
 
+Este proyecto fue desarrollado para la materia de Metodologias de la Innovación I
 
-![Image](https://s5.gifyu.com/images/20200217_234444-ANIMATION.md.gif)
+Profesora Rosa Ulloa
 
-https://s5.gifyu.com/images/20200217_234444-ANIMATION.gif
+Maestria en Desarrollo y Dirección de la Innovación
 
+Universidad de Guadalajara
