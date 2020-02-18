@@ -10,3 +10,5 @@ Profesora Rosa Ulloa
 Maestria en Desarrollo y Dirección de la Innovación
 
 Universidad de Guadalajara
+
+Proyecto por Netzahualpilli Delgado Figueroa
